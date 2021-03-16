@@ -1,4 +1,4 @@
-这里是Necessarius.Salvere017(用过的中文ID太多了列出来搞得跟报菜名一样就不列了)的github.
+这里是Necessarius.Salvere017(用过的中文ID太多列出来搞得跟报菜名一样就不列了,现在主要用'龍章鳳篆封宅非聖'这个ID在活动)的github.
 <br />
 
 这里主要用途有三个:
